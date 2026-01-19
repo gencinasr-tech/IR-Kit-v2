@@ -12,7 +12,7 @@ If you believe you have found a security-related problem in this repository, ple
 
 Instead, contact:
 
-📧 **guillermo.erdg@gmail.com**
+📧 **gencinasr@mail.com**
 
 Please include:
 
@@ -34,7 +34,7 @@ Si crees que has encontrado un problema relacionado con seguridad en este reposi
 
 En su lugar, contacta con:
 
-📧 **guillermo.erdg@gmail.com**
+📧 **gencinasr@gmail.com**
 
 Incluye:
 
